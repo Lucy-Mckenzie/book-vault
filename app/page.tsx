@@ -2,8 +2,10 @@
 
 export default function Home() {
   return (
-  <div>
-    
+  <div className=''>
+    <h1 className='flex items-center justify-center text-8xl'>
+      Hello!
+    </h1>
   </div>
-  );
+  )
 }
