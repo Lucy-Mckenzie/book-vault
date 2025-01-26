@@ -1,36 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Book Vault
+* The idea of Book Vault is a digital book tracker, where you can save books to read/wishlist and write personal reviews and ratings. I often forget which books I have previously read so I was manually writing them down, I like to cut down on physical things I own - hence the digital booklist idea. <br><br>
+* While researching this project I came across a few API's such as (Big Book API and Google API) that allow you to get book recomendations, something I would personally use a lot.<br><br>
+* During my current internship I am learning a lot about API's, this is a great opportunity to put my experience into practise (REST API's, CRUD, and Unit testing). And using Next.js more advanced features such as: Incremental Static Regeneration. Which allows me to update the static content without rebuilding the entire site.
 
-## Getting Started
+# User Story - MPV 
+Read a book (physical book)  <br>  Go to Book Vault and search for the book<br>  Find the correct book and click "I've read"<br>  This will prompt you to a dropdown<br>  All infomation is optional but you can add: favouite quotes, a descriptive review, rating + more. Then click submit (The date you add is automatically added unless you want to change it.) <br><br>
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
