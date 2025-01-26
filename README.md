@@ -7,4 +7,9 @@ Find the design process here: [View in Figma](https://embed.figma.com/design/BQC
 * During my current internship, I have learned a lot about APIs. This is a great opportunity to put my experience into practice (REST AAPIs CRUD, and Unit testing). I am also using Next.Js's more advanced features, such as incremental Static Regeneration, which allows me to update the static content without rebuilding the entire site.
 
 # User Story - MPV 
-Read a book (physical book)  <br>  Go to Book Vault and search for the book<br>  Find the correct book and click "I've read"<br>  This will prompt you to a dropdown<br>  All information is optional but you can add: favourite quotes, a descriptive review, rating + more. Then click submit (The date you add is automatically added unless you want to change it.) <br><br>
+* Read a book (physical book) <br>
+* Go to Book Vault and search for the book <br>
+* Find the correct book and click "I've read"<br>
+* This will prompt you to a dropdown<br>
+* All information is optional but you can add: favourite quotes, a descriptive review, rating + more.<br>
+* Then click submit (The date you add is automatically added unless you want to change it.) <br><br>
