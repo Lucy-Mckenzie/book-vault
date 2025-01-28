@@ -7,7 +7,7 @@ const LandingContent = () => {
       <Image 
       src='/landing.png'
       alt='an illistration of a review'
-      width={600}
+      width={500}
       height={600}
       />
     </div>

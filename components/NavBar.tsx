@@ -54,8 +54,8 @@ return (
     </div>
   </div>
 
-  <div className='navbar-start hidden lg:flex flex-grow'>
-    <ul className='menu menu-horizontal px-1 space-x-8 text-lg'>
+  <div className='navbar hidden lg:flex flex-grow'>
+    <ul className='flex items-start px-1 space-x-24 text-xl'>
       <li>
         <Link href='/' className='hover:underline'>
           home
