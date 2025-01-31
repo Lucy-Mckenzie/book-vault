@@ -22,7 +22,7 @@ export default function RootLayout({
     <html lang='en' className={`${outfit.className} antialiased`} >
       <body>
         <NavBar />
-          {children}
+        {children}
         <Footer />
       </body>
     </html>
