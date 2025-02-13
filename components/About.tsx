@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <div className='w-full min-h-screen flex justify-between px-6 py-10 overflow-hidden'>
+    <div className='w-full min-h-screen flex justify-between px-6 py-10 overflow-hidden mb-20'>
       <div className='flex-1 flex justify-center items-center'>
         <Image 
           src='/books.png'
@@ -13,7 +13,7 @@ const About = () => {
           className=''
         />
       </div>
-      <div className='flex-1  items-center justify-center flex flex-col'>
+      <div className='flex-1 items-center justify-center flex flex-col'>
         <div className='text-left space-y-4'>
           <h1 className='text-4xl font-bold text-black'>
             Keep track of books you are currently reading, or have already read.

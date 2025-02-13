@@ -7,17 +7,17 @@ const LandingContent = () => {
       <div className='flex-1 mx-auto items-center justify-center flex flex-col'>
         <div className='text-left space-y-4'>
           <h1 className='text-7xl font-bold text-black'>
-      Book Vault
+            Book Vault
           </h1>
           <h2 className='text-2xl text-gray-600'>
-      Because life&apos;s too short to read boring books
+            Because life&apos;s too short to read boring books
           </h2>
           <div className='flex space-x-4'>
             <button className='px-4 py-2 bg-[#4F67B1] text-white rounded-full hover:bg-blue-700 text-lg'>
-        Sign in
+              Sign in
             </button>
             <button className='px-4 py-2 border border-[#FFC41F] text-gray-800 rounded-full hover:bg-gray-300 text-lg'>
-        Join
+              Join
             </button>
           </div>
         </div>
